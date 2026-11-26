@@ -1,19 +1,19 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]()
 
 <h1 align="center">Hi 🌏, I'm Arkapravo Roy</h1>
-<h3 align="center">Data Engineer | Tech Leader | Backend developer</h3>
+<h3 align="center">AI Engineer | Tech Leader | Backend developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif">
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=SilentAssasin10&label=Profile%20views&color=green&style=flat" alt="SilentAssasin10" />
+  <img src="https://komarev.com/ghpvc/?username=aroy-data001&label=Profile%20views&color=green&style=flat" alt="aroy-data001" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 💻 I’m currently focused on **Data Engineering** using **Python**, **SQL**, **PySpark**, **Apache Airflow**
+- 💻 I’m currently focused on **Full-stack AI Engineering** using **Python**, **FastAPI**, **PostgreSQL**
 - 📱 Currently working on the project based on **Data Warehousing**
 - 🎨 Passionate about designing intuitive UIs with **Figma**, **Canva**, and **Adobe tools**
 - 📚 Always eager to learn, experiment, and collaborate on tech-driven ideas
@@ -49,9 +49,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SilentAssasin10&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilentAssasin10&layout=donut-vertical&theme=radical&langs_count=10&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SilentAssasin10&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aroy-data001&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aroy-data001&layout=donut-vertical&theme=radical&langs_count=10&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aroy-data001&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
